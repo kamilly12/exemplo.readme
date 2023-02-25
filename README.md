@@ -1,6 +1,7 @@
 #Projeto Portfólio
 ![Capturar capa](https://user-images.githubusercontent.com/119461685/221361787-21a20ae3-27e3-4000-96fe-d8bac868c367.PNG)
 Este projeto, foi ofertado pelo curso do Zero ao primeiro Site, pelo grupo +praTi. Esse projeto, serve para mostrar o que aprendemos, ao longo do curso, e para mostrar alguns de nossos projetos desenvolvidos ao longo do curso.
+
 #Conheça outros projetos
 
 Nestes projetos, foram uitilizados, HTML, CSS e JavaScript.
